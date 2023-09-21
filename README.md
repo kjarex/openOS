@@ -24,5 +24,6 @@ The platform needs its root certificates updated. Even after such an unpdate the
 - Common apps
   - banks
   - social media
+- Tools to make development easier. The easier the development is going to be, the more likely it will be to get things fixed or added 
   
 
